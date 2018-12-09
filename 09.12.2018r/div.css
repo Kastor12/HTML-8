@@ -1,0 +1,20 @@
+body{background-color: grey;}
+div.box{height: 300px;
+width: 300px;
+background-color: red}
+
+p{height:75%;
+width: 75;}
+
+.szerokośc{min-width: 400px;
+max-width: 600px;
+text-align: left;
+}
+
+
+.tel{min-width: 150px;
+max-height: 250px;}
+.tel2{background-color: green;
+}
+p.Jeden{overflow: hidden;}
+p.Dwa{overflow: scroll;;}

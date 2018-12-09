@@ -1,0 +1,17 @@
+#tab1 td,#tab2 td{border:1px dotted black;
+padding: 25px;
+}
+
+
+
+
+
+#tab2{empty-cells:hide;
+        border-collapse:collapse; }
+
+        #tab3 td{border: 1px, solid brown;
+        border-collapse: collapse;
+     padding:25px;
+  }
+
+  #tab3{border-spacing: 20px;}

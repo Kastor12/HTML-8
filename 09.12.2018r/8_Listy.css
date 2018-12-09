@@ -1,0 +1,19 @@
+ol
+  {
+    list-style-type: upper-roman;
+}
+ul
+  {
+    list-style-type: upper-alpha;
+
+}
+#star
+     {
+      list-style-image: url("./pulpit/foto/star.jpg");
+}
+#star li
+        {
+         margin:10px
+      }
+#wcięcie{list-style-position: inside;}
+#drzewa{list-style: inside;}
